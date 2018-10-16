@@ -44,7 +44,6 @@ a:hover {
   width: 200px;  
   height: 200px;
   background: red;
-  transform: rotateZ(30deg) scale(1.5);
 }
 
 .shope:hover {
