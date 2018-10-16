@@ -65,7 +65,7 @@ a {
   animation-name: spin;
   animation-duration: 1s;
   animation-iteration-count: infinite;
-  animation-direction: normal;
+  animation-direction: alternate-reverse;
 }
 
 .variation-3 {
