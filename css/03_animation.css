@@ -56,6 +56,7 @@ a {
 
 .variation-1 {
   animation-name: spin;
+  animation-duration: 5s;
 }
 
 .variation-2 {
