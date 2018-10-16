@@ -48,7 +48,7 @@ a:hover {
 }
 
 .shope:hover {
-  transition: rotateZ(45deg);
+  transform: rotateZ(45deg);
 }
 
 
