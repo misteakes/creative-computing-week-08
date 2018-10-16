@@ -49,6 +49,7 @@ a:hover {
 
 .shope:hover {
   transform: rotateZ(45deg);
+  background: violet;
 }
 
 
