@@ -52,7 +52,7 @@ a {
 }
 
 .triangle {
-  background: white;
+  background: transparent;
   height: 0;
   width: 0;
   border-top: 10px solid transparent;
