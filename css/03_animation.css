@@ -58,6 +58,7 @@ a {
   animation-name: spin;
   animation-duration: 5s;
   animation-iteration-count: infinite;
+  animation-direction: normal;
 }
 
 .variation-2 {
