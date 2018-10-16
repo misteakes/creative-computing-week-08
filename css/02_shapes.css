@@ -48,7 +48,7 @@ a {
 }
 
 .circle {
-
+  border-radius: 100px;
 }
 
 .triangle {
