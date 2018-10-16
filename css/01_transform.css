@@ -59,6 +59,10 @@ a:hover {
   background: blue;
 }
 
+.content:hover a {
+  color: white;
+}
+
 
 
 
