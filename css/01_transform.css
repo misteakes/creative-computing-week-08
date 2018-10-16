@@ -51,25 +51,32 @@ a:hover {
   margin-left: 100px;
   width: 200px;  
   height: 200px;
-  background: red;
+ /* background: red;
   transition: all 3s;
-  transition-delay: 1s;
+  transition-delay: 1s; */
+  animation-name: squiggle;
 }
 
-.content:hover .shape {
+/* .content:hover .shape {
   transform: rotateZ(45deg) scale(1.5);
   background: blue;
-}
+} */
 
 .content:hover a {
   color: white;
 }
 
-
-
-
-
-
-
-
-
+@keyframes squiggle {
+  0% {
+    background: red;
+    transform: scale(1.0);
+  }
+  25% {
+    background: red;
+    transform: scale(1.0);
+  }
+  100% {
+    background: blue;
+    transform: scale(1.5) rotateZ(45deg);
+  }
+}
