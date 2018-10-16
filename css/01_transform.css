@@ -39,6 +39,10 @@ a:hover {
   background: #efefef;
 }
 
+.content:hover {
+  background: black;
+}
+
 .shape {
   margin-left: 100px;
   width: 200px;  
